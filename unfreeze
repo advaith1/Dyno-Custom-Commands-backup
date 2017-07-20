@@ -1,5 +1,0 @@
-{delete}
-{silent}
-{require:serverAdmin}
-{!role in Testers, -freeze}
-**Chat test unfrozen** (Alpha state)

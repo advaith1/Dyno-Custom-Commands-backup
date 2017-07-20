@@ -1,0 +1,5 @@
+{delete}
+{silent}
+{require:serverAdmin}
+{!role all -freeze}
+**Chat unfrozen**
