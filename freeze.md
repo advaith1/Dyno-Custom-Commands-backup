@@ -1,7 +1,7 @@
 # Freeze Command Docs
 How to set up the Freeze command:
 
-First, add the 3 Freeze commands: [freeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze.txt) [unfreeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unfreeze.txt) [setupfreeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/setupfreeze.txt0
+First, add the 3 Freeze commands: [freeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze.txt) [unfreeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unfreeze.txt) [setupfreeze](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/setupfreeze.txt)
 
 Then, run `?setupfreeze` in your server. This will do some of the setup work for you.
 
