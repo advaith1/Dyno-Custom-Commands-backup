@@ -1,0 +1,3 @@
+{!addrole freeze #ffffff false}
+```css
+Freeze has been set up!```
