@@ -141,10 +141,38 @@
  <h1 id="freeze-command-docs">Freeze Command Docs</h1>
 <p>How to set up the Freeze command:</p>
 
-<p>First, add the 3 Freeze commands: <a href="https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze.txt">freeze</a> <a href="https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unfreeze.txt">unfreeze</a> <a href="https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/setupfreeze.txt">setupfreeze</a></p>
-
+<p>First, add the 3 Freeze commands: </p>
+<HR WIDTH="100%">
+<div style="float: left; width: 1000"> 
+	<div style="float: left; width: 200px">
+	<h4>Freeze:<br /></h4>
+	<code class="highlighter-rouge">{delete} <br />
+	{silent} <br />
+	{require:serverAdmin} <br />
+	{!role all +freeze} <br />
+	**Chat frozen**</code> 
+	</div>
+	<div style="float: left; width: 200px">
+	<h4>Unfreeze:<br /></h4>
+		<code class="highlighter-rouge">{delete} <br />
+			{silent} <br />
+			{require:serverAdmin} <br />
+			{!role all -freeze} <br />
+			**Chat unfrozen**</code>
+	</div>
+	 <div style="float: left; width 200px">
+	  <h4>Setup: <br /></h4>
+	 <code class="highlighter-rouge">
+			{!addrole freeze #ffffff false} <br />
+			```css <br />
+			Freeze has been set up!``` <br />
+	 </code>
+	</div>
+</div>
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<HR WIDTH="100%">
 <p>Then, run <code class="highlighter-rouge">?setupfreeze</code> in your server. This will do some of the setup work for you.</p>
-
 <p>Next, go to the settings for each channel, and set <code class="highlighter-rouge">freeze</code> to <code class="highlighter-rouge">can't send messages</code>, as shown:
 <div id="image" style="float: center; clear: left"> <IMG width="239" height="319" SRC="https://cdn.discordapp.com/attachments/252296452708106240/337698978621685761/unknown.png"><p>Once you complete setting that for each channel, the freeze command should be ready. Simply use <code class="highlighter-rouge">?freeze</code> to freeze the server, and <code class="highlighter-rouge">?unfreeze</code> to revert to normal.
 Note that on large servers it may take a while to freeze everyone, up to a minute.
@@ -155,10 +183,6 @@ Administrators are not affected by freezes.</p></p></div>
 <p>Note: If your server has a different prefix than <code class="highlighter-rouge">?</code>, you will need to use that prefix in place of <code class="highlighter-rouge">?</code> in this documentation.</p>
 
 <p>Documentation written by advaith#9121.</p>
-
-    
-    <script data-rocketsrc="/assets/javascript/anchor-js/anchor.min.js" type="text/rocketscript"></script>
-    <script type="text/rocketscript">anchors.add();</script>
 <hr />
 <div style="width: 600px;">
 <div style="float: left; width: 189px">
