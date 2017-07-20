@@ -12,17 +12,17 @@
 `?blocked` You can't unblock the Wumpus.<br/>
 `?pending` There are no pending friend requests. Here's a Wumpus for now.<br/>
 `?depressme` :(<br/>
-`?waitwhat` _wait, what??_
+`?waitwhat` _wait, what??_<br/>
 `?color` Changes a role color. In development, may not work.<br/>
 `?letterbox3` Displays a 3 letter word in a box.<br/>
 ## 🗨 Say
 `?embed` Post an embedded message.<br/>
-`?say` Make Dyno say what you say.
-`?bluegreen` Make Dyno say what you say, in blue-green text.
-`?orange` Make Dyno say what you say, in orange text.
-`?red` Make Dyno say what you say, in red text.
-`?yelloworange` Make Dyno say what you say, in yellow-orange text.
-`?green` Make Dyno say what you say, in light green text.
+`?say` Make Dyno say what you say.<br/>
+`?bluegreen` Make Dyno say what you say, in blue-green text.<br/>
+`?orange` Make Dyno say what you say, in orange text.<br/>
+`?red` Make Dyno say what you say, in red text.<br/>
+`?yelloworange` Make Dyno say what you say, in yellow-orange text.<br/>
+`?green` Make Dyno say what you say, in light green text.<br/>
 ## Verification
 `?getcode` Part of the verifiction process, DMs you your signup code.<br/>
 `?unverify` For testing, unverifies a user.<br/>
