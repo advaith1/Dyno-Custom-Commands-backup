@@ -1,1 +1,4 @@
-{!setnick {user} {user.name}
+{delete}
+{silent}
+{!setnick {user} {user.name}}
+{user.name} is now awake.
