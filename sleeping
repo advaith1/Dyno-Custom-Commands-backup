@@ -2,4 +2,4 @@
 {silent}
 {!afk :zzz:}
 {!setnick {user} [SLEEPING] {user.username}}
-{user.name} is now asleep.
+{user.username} is now asleep.
