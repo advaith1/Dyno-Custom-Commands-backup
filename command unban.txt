@@ -2,4 +2,4 @@
 {delete}
 {silent}
 {!ignoreuser $1}
-{!setnick $1 $2}
+{!setnick $1 $2+}
