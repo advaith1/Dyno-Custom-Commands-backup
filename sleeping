@@ -1,0 +1,2 @@
+{!afk :zzz:}
+{!setnick {user} [SLEEPING] {user.name}}
