@@ -1,2 +1,5 @@
+{delete}
+{silent}
 {!afk :zzz:}
 {!setnick {user} [SLEEPING] {user.name}}
+{user.name} is now asleep.
