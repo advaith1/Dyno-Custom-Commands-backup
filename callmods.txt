@@ -1,3 +1,6 @@
 {delete}
 <@&334034777319669762> {user} has called in the mods!
 {!announce {#action-log} {user} called in the mods.}
+*Note: The paste the moderator role id where you see <@&334034777319669762>*
+**You can get the mod id by mentioning the role then putting \ before the role ex: \@moderators **
+***Replace #action-log with the designated channel you would like dyno to post in***
