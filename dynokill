@@ -1,4 +1,0 @@
-{!announce {channel} _kills $1+_}
-{!role $1+ +DEAD (RIP me)}
-{delete}
-{silent}
