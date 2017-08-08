@@ -140,15 +140,6 @@
 		/*mobile support 329 px*/
 		}
 	</style>
-	<?php $allow = array("123.456.789", "456.789.123", "789.123.456"); //allowed IPs
-
-if(!in_array($_SERVER['REMOTE_ADDR'], $allow) && !in_array($_SERVER["HTTP_X_FORWARDED_FOR"], $allow)) {
-
-    header("Location: http://dynocc.tk/kicked"); //redirect
-
-    exit();
-
-} ?>
 </head>
 <body>
 <header id="header">
