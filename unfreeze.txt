@@ -2,4 +2,4 @@
 {silent}
 {require:serverAdmin}
 {!role all -freeze}
-**Chat unfrozen**
+**<:thumbsup_blob:345039968693125120> Chat unfrozen**
