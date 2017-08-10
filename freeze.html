@@ -156,7 +156,7 @@
 	{silent} <br />
 	{require:serverAdmin} <br />
 	{!role all +freeze} <br />
-	**<:thumbsup_blob:344904520280571905> Chat frozen**</code> 
+	**<:thumbsup_blob:345039968693125120> Chat frozen**</code> 
 	</div>
 	<div style="float: left; width: 200px">
 	<h4>unfreeze:<br /></h4>
@@ -164,14 +164,15 @@
 			{silent} <br />
 			{require:serverAdmin} <br />
 			{!role all -freeze} <br />
-			**Chat unfrozen**</code>
+			**<:thumbsup_blob:345039968693125120> Chat unfrozen**</code>
 	</div>
 	 <div style="float: left; width 200px">
 	  <h4>setupfreeze<br /></h4>
 	 <code class="highlighter-rouge">
-			{!addrole freeze #ffffff false} <br />
-			```css <br />
-			Freeze has been set up!``` <br />
+		 	{silent}<br/>
+			{!addrole freeze #ffffff}<br/>
+			```css<br/>
+			👍 The Freeze role has been created! Now follow the documentation to finish setup!```<br/>
 	 </code>
 	</div>
 </div>
