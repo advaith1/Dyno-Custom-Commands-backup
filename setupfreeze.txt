@@ -1,3 +1,4 @@
-{!addrole freeze #ffffff false}
+{silent}
+{!addrole freeze #ffffff}
 ```css
-👍 Freeze has been set up!```
+👍 The Freeze role has been created! Now follow the documentation to finish setup!```
