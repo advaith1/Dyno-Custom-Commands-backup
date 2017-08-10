@@ -2,4 +2,4 @@
 {silent}
 {require:serverAdmin}
 {!role all +freeze}
-**<:thumbsup_blob:344904520280571905> Chat frozen**
+**<<:thumbsup_blob:345039968693125120> Chat frozen**
