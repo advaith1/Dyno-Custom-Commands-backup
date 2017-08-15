@@ -2,4 +2,5 @@
 {silent}
 {require:UNVERIFIED}
 {require:#signup}
+{!purge 10}
 {!role {user} -UNVERIFIED}
