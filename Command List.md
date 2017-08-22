@@ -18,6 +18,7 @@
 `?waitwhat` _wait, what??_ [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/waitwhat.txt)<br/>
 `?color` Changes a role color. In development, may not work. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/color.txt)<br/>
 `?letterbox3` Displays a 3 letter symmetrical word in a box. You must add spaces between each letter. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/letterbox3)<br/>
+`?8ball` An embedded 8ball command. Just Copy And Paste. Don't modify if you don't understand how this works. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/8ball.txt) <br/>
 ## 🗨 Say
 `?embed` Post an embedded message. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/embed.txt)<br/>
 `?say` Make Dyno say what you say. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/say.txt)<br/>
