@@ -1,5 +1,4 @@
 # Staff/Helpers List
-</br>
 ## Main CC Creators:
 advatih
 Olybear9
