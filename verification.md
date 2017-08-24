@@ -41,7 +41,7 @@ You then need to replace each "0" in the "?getcode" command with one of those st
 
 After you have done this, you need to create a custom command with EACH of those strings.
 The code needs to be
-```
+```md
 {delete}
 {silent}
 {require:UNVERIFIED}
@@ -51,7 +51,7 @@ The code needs to be
 ```
 
 Please note that if you have a standard role for users, the response needs to be
-```
+```md
 {delete}
 {silent}
 {require:UNVERIFIED}
@@ -65,7 +65,7 @@ Please note that if you have a standard role for users, the response needs to be
 ## Getting codes
 To get a code, you need to set up the `?getcode` command.  This can be done by going into the Dyno Dashboard, selecting your server and navigating to the Custom Commands module.
 The command is 
-```
+```md
 {delete}
 {dm}
 {require:UNVERIFIED}
@@ -84,13 +84,13 @@ Please ensure that the command is "?getcode" and the response is what is above.
 ### Manually verify a user
 
 If you want to manually verify a user, then you need to create the command "?verify" with the response 
-```
+```md
 {delete}
 {silent}
 {!role $1 -UNVERIFIED}
 ```
 Please note that if you have a standard role for users, then the response needs to be 
-```
+```md
 {delete}
 {silent}
 {!role $1 +<your role>, -UNVERIFIED}
@@ -100,13 +100,13 @@ Please note that if you have a standard role for users, then the response needs 
 
 If a user has been acting suspiciously, you can make them verify again.
 This is done by creating a "?unverify" command with response 
-```
+```md
 {delete}
 {silent}
 {!role $1 +UNVERIFIED}
 ```
 Please note that if you have a standard role for users, then the response needs to be 
-```
+```md
 {delete}
 {silent}
 {!role $1 -<your role>, +UNVERIFIED}
