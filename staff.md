@@ -3,9 +3,15 @@
 advaith  
 Olybear9
 
-## Helpers
+## Main Helpers
+QuinnTDIP™️
 AS04™️  
+Typical
+
+## Website Helpers
+QuinnTDIP™️
+
+## Helpers
 John Smith  
-QuinnTDIP™️  
 Glitchmaster  
 redstonedesigner
