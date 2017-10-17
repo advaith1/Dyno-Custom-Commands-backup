@@ -33,5 +33,5 @@ Signup Codes: Part of the verifiction process, use in #signup to get server acce
 `?unverify` For testing, unverifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unverify.txt)<br/>
 `?verify` Manually verifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/verify.txt)<br/>
 
-More commands will be added to this list soon!<br/>
+We are still working on updating this list!<br/>
 [**Click here to return back**](https://dynocc.tk)
