@@ -1,7 +1,8 @@
 theme: jekyll-theme-architect
-
+plugins:
+  - jemoji
 title: Dyno Custom Commands
-repotitle: CahBot
+repotitle: Dyno Custom Commands
 author: The DCC Team
 authorurl: https://dynocc.tk/staff
 url: https://dynocc.tk
