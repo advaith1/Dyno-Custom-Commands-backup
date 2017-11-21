@@ -1,6 +1,4 @@
 theme: jekyll-theme-architect
-plugins:
-  - jemoji
 title: Dyno Custom Commands
 repotitle: Dyno Custom Commands
 author: The DCC Team
