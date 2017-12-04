@@ -1,6 +1,6 @@
-theme: jekyll-theme-architect
 title: Dyno Custom Commands
 repotitle: Dyno Custom Commands
 author: The DCC Team
 authorurl: https://dynocc.tk/staff
 url: https://dynocc.tk
+remote_theme: advaith1/architect-nosidebar
